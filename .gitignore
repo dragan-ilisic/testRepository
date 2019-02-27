@@ -1,0 +1,14 @@
+# ANDROID IGNORES
+# Build application files
+*.apk
+*.ap_
+
+# Files for the Darvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
